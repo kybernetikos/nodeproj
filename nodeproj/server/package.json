@@ -1,0 +1,11 @@
+{
+  "name": "projectserver",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "2.5.8",
+    "uglify-js": "1.2.6",
+    "stylus": "0.24.0",
+    "connect-assetmanager": "0.0.26",
+    "connection-assetmanager-handlers": "0.0.18"
+  }
+}
